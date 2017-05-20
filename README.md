@@ -2,7 +2,7 @@
 <h2>Graph Theory & Algorithms</h2>
  <ol>
  <li>Prim's Algorithm</li>
- <li>Binary Tree</li>
+ <li>Binary Tree(Preorder,Postorder,Inorder)</li>
  <li>Merge Sort</li>
  </ol>
  <br>
